@@ -1,0 +1,22 @@
+table, th, td {
+  border: 1px solid;
+}
+
+.large-text-wrap {
+  inline-size: 600px; 
+}
+
+.primary-button {
+  font-family :'serif';
+  font-size : large;
+  background-color : white;
+  border : 2px solid green;
+  border-radius: 5px;
+}
+
+.secondary-button {
+  font-weight : bold;
+  background-color : white;
+  border : 1px solid darkblue;
+  border-radius: 5px;
+}
